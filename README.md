@@ -1,7 +1,8 @@
-Connect and control your Seat car with Homey.
+Connect and control your Cupra car with Homey.
 
 Requirements: A car with one of the following connected services:t
- - Seat Connect
+ - Cupra Connect
+ - MyCupra
 
  Make sure to have a active subscription for your car
 
