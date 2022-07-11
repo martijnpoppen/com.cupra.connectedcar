@@ -1,0 +1,77 @@
+{
+  "id": "com.cupra.connectedcar",
+  "version": "1.9.0",
+  "compatibility": ">=5.0.0",
+  "sdk": 3,
+  "platforms": [
+    "local"
+  ],
+  "brandColor": "#74a7d2",
+  "name": {
+    "en": "Cupra Connect",
+    "nl": "Cupra Connect"
+  },
+  "description": {
+    "en": "Connected with your Cupra",
+    "nl": "Verbonden met jouw Cupra"
+  },
+  "tags": {
+    "en": [
+      "VW",
+      "Connect",
+      "Audi",
+      "myAudi",
+      "Skoda",
+      "Skoda Connect",
+      "VW Connect",
+      "VW Connect ID",
+      "ID.3",
+      "VW Connect Go",
+      "Seat",
+      "Cupra"
+    ]
+  },
+  "category": [
+    "appliances"
+  ],
+  "permissions": [
+    "homey:manager:geolocation"
+  ],
+  "images": {
+    "large": "/assets/images/large.jpg",
+    "small": "/assets/images/small.jpg"
+  },
+  "author": {
+    "name": "Martijn Poppen",
+    "email": "vag@martijnpoppen.nl"
+  },
+  "contributors": {
+    "developers": [
+      {
+        "name": "Martijn Poppen",
+        "email": "vag@martijnpoppen.nl"
+      }
+    ],
+    "translators": [
+      {
+        "name": "🇬🇧 Martijn Poppen"
+      },
+      {
+        "name": "🇳🇱 Martijn Poppen"
+      }
+    ]
+  },
+  "contributing": {
+    "donate": {
+      "paypal": {
+        "username": "martijnpoppen"
+      }
+    }
+  },
+  "bugs": {
+    "url": "https://community.homey.app/62196"
+  },
+  "source": "https://github.com/martijnpoppen/com.cupra.connectedcar",
+  "homeyCommunityTopicId": 34493,
+  "support": "https://community.homey.app/62196"
+}
