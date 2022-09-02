@@ -226,5 +226,8 @@
   },
   "1.10.0": {
     "en": "NEW: Cupra Fuel and Cupra Hybrid"
+  },
+  "1.10.1": {
+    "en": "FIX: data not updating"
   }
 }
