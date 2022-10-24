@@ -1,9 +1,11 @@
 {
   "id": "com.cupra.connectedcar",
-  "version": "1.10.1",
+  "version": "1.10.2",
   "compatibility": ">=5.0.0",
   "sdk": 3,
-  "platforms": ["local"],
+  "platforms": [
+    "local"
+  ],
   "brandColor": "#153b48",
   "name": {
     "en": "Cupra Connect",
@@ -29,8 +31,12 @@
       "Cupra"
     ]
   },
-  "category": ["appliances"],
-  "permissions": ["homey:manager:geolocation"],
+  "category": [
+    "appliances"
+  ],
+  "permissions": [
+    "homey:manager:geolocation"
+  ],
   "images": {
     "large": "/assets/images/large.jpg",
     "small": "/assets/images/small.jpg"
