@@ -3,9 +3,7 @@
   "version": "1.10.1",
   "compatibility": ">=5.0.0",
   "sdk": 3,
-  "platforms": [
-    "local"
-  ],
+  "platforms": ["local"],
   "brandColor": "#153b48",
   "name": {
     "en": "Cupra Connect",
@@ -31,12 +29,8 @@
       "Cupra"
     ]
   },
-  "category": [
-    "appliances"
-  ],
-  "permissions": [
-    "homey:manager:geolocation"
-  ],
+  "category": ["appliances"],
+  "permissions": ["homey:manager:geolocation"],
   "images": {
     "large": "/assets/images/large.jpg",
     "small": "/assets/images/small.jpg"
@@ -65,13 +59,16 @@
     "donate": {
       "paypal": {
         "username": "martijnpoppen"
+      },
+      "bunq": {
+        "username": "martijnpoppen"
       }
     }
   },
   "bugs": {
-    "url": "https://community.homey.app/62196"
+    "url": "https://community.homey.app/t/app-pro-we-connect-myaudi-myskoda-my-seat-my-cupra/62196"
   },
   "source": "https://github.com/martijnpoppen/com.cupra.connectedcar",
   "homeyCommunityTopicId": 34493,
-  "support": "https://community.homey.app/62196"
+  "support": "https://community.homey.app/t/app-pro-we-connect-myaudi-myskoda-my-seat-my-cupra/62196"
 }
