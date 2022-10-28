@@ -232,5 +232,8 @@
   },
   "1.10.2": {
     "en": "NEW: update library - NEW: Skoda V3 support - FIX: app page support links"
+  },
+  "1.10.3": {
+    "en": "FIX: app category"
   }
 }
