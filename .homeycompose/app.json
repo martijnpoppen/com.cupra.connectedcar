@@ -32,7 +32,7 @@
     ]
   },
   "category": [
-    "appliances"
+    "localization"
   ],
   "permissions": [
     "homey:manager:geolocation"
