@@ -235,5 +235,8 @@
   },
   "1.10.3": {
     "en": "FIX: app category"
+  },
+  "1.10.4": {
+    "en": "REVERT: Library Update - Unstable"
   }
 }
