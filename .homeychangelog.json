@@ -238,5 +238,8 @@
   },
   "1.10.4": {
     "en": "REVERT: Library Update - Unstable"
+  },
+  "1.10.5": {
+    "en": "FIX: app crash"
   }
 }
