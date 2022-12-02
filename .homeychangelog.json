@@ -247,5 +247,8 @@
   },
   "1.11.1": {
     "en": "FIX: missing flowcards for multiple models (Cupra & Skoda)"
+  },
+  "1.11.2": {
+    "en": "FIX: revert lib update"
   }
 }
