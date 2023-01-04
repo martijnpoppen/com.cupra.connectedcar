@@ -1,7 +1,7 @@
 {
   "_comment": "This file is generated. Please edit .homeycompose/app.json instead.",
   "id": "com.cupra.connectedcar",
-  "version": "1.11.5",
+  "version": "1.12.0",
   "compatibility": ">=5.0.0",
   "sdk": 3,
   "platforms": [
@@ -1477,21 +1477,6 @@
           }
         },
         {
-          "id": "pincode",
-          "template": "pincode",
-          "options": {
-            "title": {
-              "en": "Enter S-PIN:",
-              "nl": "Voer S-PIN in:"
-            },
-            "type": "number",
-            "length": 4
-          },
-          "navigation": {
-            "prev": "login_credentials"
-          }
-        },
-        {
           "id": "loading",
           "template": "loading"
         },
@@ -1508,17 +1493,48 @@
         {
           "id": "list_devices",
           "template": "list_devices",
-          "options": {
-            "singular": true
-          },
           "navigation": {
             "prev": "login_credentials",
-            "next": "add_devices"
+            "next": "pincode"
+          },
+          "options": {
+            "singular": true
+          }
+        },
+        {
+          "id": "pincode",
+          "template": "pincode",
+          "options": {
+            "title": {
+              "en": "Enter S-PIN:",
+              "nl": "Voer S-PIN in:"
+            },
+            "type": "number",
+            "length": 4
+          },
+          "navigation": {
+            "prev": "list_devices"
           }
         },
         {
           "id": "add_devices",
           "template": "add_devices"
+        },
+        {
+          "id": "error",
+          "navigation": {
+            "prev": "login_credentials"
+          },
+          "options": {
+            "title": {
+              "en": "Error",
+              "nl": "Error"
+            },
+            "text": {
+              "en": "<hr><br><br>To change the login click 'previous'.<hr><br><br>",
+              "nl": "<hr><br><br>Om opnieuw in te loggen, klik 'vorige'.<hr><br><br>"
+            }
+          }
         }
       ],
       "platforms": [
@@ -1833,21 +1849,6 @@
           }
         },
         {
-          "id": "pincode",
-          "template": "pincode",
-          "options": {
-            "title": {
-              "en": "Enter S-PIN:",
-              "nl": "Voer S-PIN in:"
-            },
-            "type": "number",
-            "length": 4
-          },
-          "navigation": {
-            "prev": "login_credentials"
-          }
-        },
-        {
           "id": "loading",
           "template": "loading"
         },
@@ -1864,17 +1865,48 @@
         {
           "id": "list_devices",
           "template": "list_devices",
-          "options": {
-            "singular": true
-          },
           "navigation": {
             "prev": "login_credentials",
-            "next": "add_devices"
+            "next": "pincode"
+          },
+          "options": {
+            "singular": true
+          }
+        },
+        {
+          "id": "pincode",
+          "template": "pincode",
+          "options": {
+            "title": {
+              "en": "Enter S-PIN:",
+              "nl": "Voer S-PIN in:"
+            },
+            "type": "number",
+            "length": 4
+          },
+          "navigation": {
+            "prev": "list_devices"
           }
         },
         {
           "id": "add_devices",
           "template": "add_devices"
+        },
+        {
+          "id": "error",
+          "navigation": {
+            "prev": "login_credentials"
+          },
+          "options": {
+            "title": {
+              "en": "Error",
+              "nl": "Error"
+            },
+            "text": {
+              "en": "<hr><br><br>To change the login click 'previous'.<hr><br><br>",
+              "nl": "<hr><br><br>Om opnieuw in te loggen, klik 'vorige'.<hr><br><br>"
+            }
+          }
         }
       ],
       "platforms": [
@@ -2185,21 +2217,6 @@
           }
         },
         {
-          "id": "pincode",
-          "template": "pincode",
-          "options": {
-            "title": {
-              "en": "Enter S-PIN:",
-              "nl": "Voer S-PIN in:"
-            },
-            "type": "number",
-            "length": 4
-          },
-          "navigation": {
-            "prev": "login_credentials"
-          }
-        },
-        {
           "id": "loading",
           "template": "loading"
         },
@@ -2216,17 +2233,48 @@
         {
           "id": "list_devices",
           "template": "list_devices",
-          "options": {
-            "singular": true
-          },
           "navigation": {
             "prev": "login_credentials",
-            "next": "add_devices"
+            "next": "pincode"
+          },
+          "options": {
+            "singular": true
+          }
+        },
+        {
+          "id": "pincode",
+          "template": "pincode",
+          "options": {
+            "title": {
+              "en": "Enter S-PIN:",
+              "nl": "Voer S-PIN in:"
+            },
+            "type": "number",
+            "length": 4
+          },
+          "navigation": {
+            "prev": "list_devices"
           }
         },
         {
           "id": "add_devices",
           "template": "add_devices"
+        },
+        {
+          "id": "error",
+          "navigation": {
+            "prev": "login_credentials"
+          },
+          "options": {
+            "title": {
+              "en": "Error",
+              "nl": "Error"
+            },
+            "text": {
+              "en": "<hr><br><br>To change the login click 'previous'.<hr><br><br>",
+              "nl": "<hr><br><br>Om opnieuw in te loggen, klik 'vorige'.<hr><br><br>"
+            }
+          }
         }
       ],
       "platforms": [
