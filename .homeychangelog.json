@@ -286,5 +286,8 @@
   },
   "1.12.8": {
     "en": "NEW: add terms and conditions message"
+  },
+  "1.12.9": {
+    "en": "FIX: negative numbers"
   }
 }
