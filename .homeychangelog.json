@@ -367,5 +367,8 @@
   },
   "1.18.4": {
     "en": "FIX: device pairing"
+  },
+  "1.18.5": {
+    "en": "FIX: device pairing"
   }
 }
