@@ -385,5 +385,8 @@
   },
   "1.21.0": {
     "en": "NEW: Italian translation | NEW: update API"
+  },
+  "1.22.0": {
+    "en": "FIX: is_charging | NEW: rewrite lock/unlock for ID/Cupra/Etron/Skoda"
   }
 }
