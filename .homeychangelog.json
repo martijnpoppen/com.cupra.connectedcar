@@ -394,5 +394,8 @@
   },
   "1.22.2": {
     "en": "FIX: issue in action url"
+  },
+  "1.22.3": {
+    "en": "FIX: issue in action url"
   }
 }
