@@ -406,5 +406,8 @@
   },
   "1.24.0": {
     "en": "NEW: add interval flowcard | FIX: disable force updating (corrupting the API)"
+  },
+  "1.24.1": {
+    "en": "FIX: cupra mapping | FIX: update library"
   }
 }
