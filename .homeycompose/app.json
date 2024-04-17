@@ -1,6 +1,6 @@
 {
   "id": "com.cupra.connectedcar",
-  "version": "1.25.3",
+  "version": "1.25.4",
   "compatibility": ">=5.0.0",
   "sdk": 3,
   "platforms": [
