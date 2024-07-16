@@ -442,5 +442,8 @@
   },
   "1.25.6": {
     "en": "FIX: missing flowcards"
+  },
+  "1.26.1": {
+    "en": "FIX: missing flowcards"
   }
 }
